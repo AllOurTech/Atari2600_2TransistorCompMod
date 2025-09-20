@@ -4,6 +4,9 @@
 	(generator_version "9.0")
 	(uuid "24c17a45-eab4-42e2-afb0-a8528e6bf5f3")
 	(paper "A4")
+	(title_block
+		(title "Atari2600_2TransistorCompMod")
+	)
 	(lib_symbols
 		(symbol "Connector_Generic:Conn_01x01"
 			(pin_names
